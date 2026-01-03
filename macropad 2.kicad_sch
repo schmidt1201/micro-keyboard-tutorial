@@ -1937,7 +1937,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 82.55 0)
 			(effects
 				(font
@@ -2005,7 +2005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 69.85 0)
 			(effects
 				(font
@@ -2073,7 +2073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 58.42 0)
 			(effects
 				(font
@@ -2273,7 +2273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 97.79 0)
 			(effects
 				(font
@@ -2341,7 +2341,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 110.49 0)
 			(effects
 				(font
@@ -2409,7 +2409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+		(property "Footprint" "OPL:XIAO-RP2040-DIP"
 			(at 144.018 113.538 0)
 			(effects
 				(font
@@ -2580,7 +2580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 138.43 56.896 0)
 			(effects
 				(font
